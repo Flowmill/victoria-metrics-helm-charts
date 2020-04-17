@@ -3,204 +3,214 @@ entries:
   victoria-metrics-agent:
   - apiVersion: v1
     appVersion: v1.34.8
-    created: "2020-04-16T00:24:28.638942+03:00"
+    created: 2020-04-16T18:20:37.040715-07:00
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
-    digest: 91be8f27d5c012bbddb3e495d6608e1685d27616581bc3b49497e2970d9b9fc8
+    digest: 8c0fc6fba94c1fe6224bebcefa6497140bc7b4969a31a101369ceb4b910be2bf
     name: victoria-metrics-agent
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-agent-0.1.3.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-agent-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: v1.34.7
-    created: "2020-04-16T00:24:28.638248+03:00"
+    created: 2020-04-16T18:20:37.040395-07:00
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e4258e375c2a99d8990dc8ffa6f0dff4a21c8d39153220324d909f9cb904244f
     name: victoria-metrics-agent
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-agent-0.1.2.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-agent-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: v1.34.2
-    created: "2020-04-16T00:24:28.636933+03:00"
+    created: 2020-04-16T18:20:37.039401-07:00
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 22ba5b8c554f9ccdfb122535a6838b9e74740a35f964a49d8b7f18c06d45db3a
     name: victoria-metrics-agent
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-agent-0.1.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-agent-0.1.0.tgz
     version: 0.1.0
   victoria-metrics-cluster:
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2020-04-16T00:24:28.662834+03:00"
+    created: 2020-04-16T18:20:37.048338-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
-    digest: fd5427e0591cf7ef2d3a787e2ed5f2c750361a044d249f49e713c5a3a62d79aa
+    digest: b9e4af931c8a12c77dab3f742f3e6fee74b4a7dfcd31c7c9a1139c4e2ee93c92
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.6.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.6.tgz
     version: 0.4.6
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2020-04-16T00:24:28.661516+03:00"
+    created: 2020-04-16T18:20:37.047126-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8562a9664e5258b2c665767200ea5fc4d1f052b922528e7258d0e1f1aa098ed4
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.5.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.5.tgz
     version: 0.4.5
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2020-04-16T00:24:28.659349+03:00"
+    created: 2020-04-16T18:20:37.04635-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 1dfbd7e18f986519de3ef317f06a73c2d6ca392db1f74ca7ae9e06124799054f
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.4.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.4.tgz
     version: 0.4.4
   - apiVersion: v1
     appVersion: 1.34.6
-    created: "2020-04-16T00:24:28.656257+03:00"
+    created: 2020-04-16T18:20:37.045178-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8ad47ed82e6955a4ce0f7a7b498735f6d57687b35c2e6de3051390ad3290a702
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.2.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2020-04-16T00:24:28.654121+03:00"
+    created: 2020-04-16T18:20:37.044078-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 10daf166452a1d77102ea5f79025dfa0bb877bf66e9ede01f211e8f1b8ec135a
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.1.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
     appVersion: 1.31.2
-    created: "2020-04-16T00:24:28.65189+03:00"
+    created: 2020-04-16T18:20:37.043345-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e4634e294781a99fffd9af1b1b7aee0c35a389a40d89412686fbc07d39986f37
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.4.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.30.5
-    created: "2020-04-16T00:24:28.6493+03:00"
+    created: 2020-04-16T18:20:37.042588-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 77e34f0105d73da0ae64fc71e8e1a76177d64ef092a58a4b828acd176b90cd1b
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.3.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.29.5
-    created: "2020-04-16T00:24:28.647518+03:00"
+    created: 2020-04-16T18:20:37.041923-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 5d5ac9126818d1cb804497d35221658aa3ebef15c622f7e67aa9044166151742
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.2.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.28.0
-    created: "2020-04-16T00:24:28.644874+03:00"
+    created: 2020-04-16T18:20:37.041367-07:00
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9efd0080ef1b40213dc9b1b4095ff92186392afc26763cc69b9992814bcafecc
     name: victoria-metrics-cluster
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.1.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-cluster-0.1.0.tgz
     version: 0.1.0
   victoria-metrics-single:
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2020-04-16T00:24:28.67657+03:00"
+    created: 2020-04-16T18:20:37.052652-07:00
+    description: Victoria Metrics Single version - high-performance, cost-effective
+      and scalable TSDB, long-term remote storage for Prometheus
+    digest: e4a3c98afaa7e4ac87dc91a346c3fa52a7f2a03bb94d58951c84c7631edaa9df
+    name: victoria-metrics-single
+    urls:
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v1
+    appVersion: 1.34.8
+    created: 2020-04-16T18:20:37.05198-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 430c1b8b99854fd2157b2df247fcf1aea22df5919c7f3ab9303eec27fe5833f1
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.3.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2020-04-16T00:24:28.675703+03:00"
+    created: 2020-04-16T18:20:37.051464-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 97bab7ff48cb97c269bf7a08f6b68225a48b838ac7b725837a539b7b72d3dfbe
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.2.1.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2020-04-16T00:24:28.674204+03:00"
+    created: 2020-04-16T18:20:37.050971-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a64ef7a538b2af08361816b5747167a63698155dc3797a6d878ce67b2392c461
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.2.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2020-04-16T00:24:28.671682+03:00"
+    created: 2020-04-16T18:20:37.050479-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a15c1b73983a31846faaeb4cab864e656c6d94ee5ac3a4e44ec275a624f27207
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.1.0.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2020-04-16T00:24:28.670173+03:00"
+    created: 2020-04-16T18:20:37.049989-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 04a247603c9a0192a590f0f1464c6b138a4fd94b5026b9a6fb4f7caf810a4681
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.0.6.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: 1.34.6
-    created: "2020-04-16T00:24:28.668454+03:00"
+    created: 2020-04-16T18:20:37.04957-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b5aed23174af8e33d66aeedb213f2c3d2c4ffc4a94d0fb88ac62309acbe3f20a
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.0.4.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2020-04-16T00:24:28.66631+03:00"
+    created: 2020-04-16T18:20:37.049158-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: ccaf1570aeed45664a25c7a7af76aae4d5dc1fa6539751c3ba780a1d288c6f28
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.0.3.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2020-04-16T00:24:28.664599+03:00"
+    created: 2020-04-16T18:20:37.048737-07:00
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 223849a598353e7f0f3080d3dd3cb9e734b99bf6f3a2643aa8876e793d8a7161
     name: victoria-metrics-single
     urls:
-    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.0.1.tgz
+    - https://flowmill.github.io/victoria-metrics-helm-charts/packages/victoria-metrics-single-0.0.1.tgz
     version: 0.0.1
-generated: "2020-04-16T00:24:28.635596+03:00"
+generated: 2020-04-16T18:20:37.038981-07:00
